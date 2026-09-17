@@ -5,13 +5,10 @@ code, results and documentation.
 
 | Project | Summary |
 |---|---|
-| [knee-oa-grading](https://github.com/ar0700288/knee-oa-grading) | Automated knee osteoarthritis grading from X-rays using ResNet-50 transfer learning and Grad-CAM. |
+| [knee-oa-grading](knee-oa-grading/) | Automated knee osteoarthritis grading from X-rays using ResNet-50 transfer learning and Grad-CAM. |
 
-## Note
-
-The project folders are links (git submodules) to the original repositories. To download a
-collection together with all its projects:
+## Download
 
 ```bash
-git clone --recurse-submodules <this repository URL>
+git clone https://github.com/ar0700288/Image-Analysis-in-Bioinformatics.git
 ```
