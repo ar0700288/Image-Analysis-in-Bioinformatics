@@ -5,7 +5,7 @@ code, results and documentation.
 
 | Project | Summary |
 |---|---|
-| [knee-oa-grading](knee-oa-grading/) | Automated knee osteoarthritis grading from X-rays using ResNet-50 transfer learning and Grad-CAM. |
+| [knee-oa-grading-Project-01](knee-oa-grading-Project-01/) | Automated knee osteoarthritis grading from X-rays using ResNet-50 transfer learning and Grad-CAM. |
 
 ## Download
 
